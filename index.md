@@ -14,7 +14,7 @@ info:
  course_number: CPP 528 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/134477'
- course_start_end_dates: March 8 to April 23, 2021
+ course_start_end_dates: October 12 to December 2, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/4747048556'
@@ -24,8 +24,8 @@ info:
 
 instructor:
 -  name: Cristian E. Nuno
-   title: Manager of Data Engineering and Information Systems / Faculty Associate
-   email: cenuno@asu.edu   
+   title: Professor of Practice
+   email: mboudour@asu.edu   
    office_location: UCENT 444 and virtual
    website_url: 
    github_url: 'https://github.com/mboudour' 
