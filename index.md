@@ -13,27 +13,27 @@ info:
  course_title: Foundations of Data Science Part III
  course_number: CPP 528 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/82561'
+ course_website: 'https://canvas.asu.edu/courses/134477'
  course_start_end_dates: March 8 to April 23, 2021
  course_prerequisites:  
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/meeting/557182841'
+ class_meets_where:  'https://asu.zoom.us/j/4747048556'
  review_sessions_when: TBD 
  review_sessions_where: Zoom
- discussion_board_url: 'https://watts-college.github.io/cpp-528-template/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-528-fall-2022/help/'
 
 instructor:
 -  name: Cristian E. Nuno
    title: Manager of Data Engineering and Information Systems / Faculty Associate
    email: cenuno@asu.edu   
-   office_location: virtual
+   office_location: UCENT 444 and virtual
    website_url: 
-   github_url: 'https://github.com/cenuno' 
-   twitter_url: 'https://twitter.com/cenuno_'
-   scholar_url: 
-   linked_in_url: 'https://www.linkedin.com/in/cristiannuno/'
+   github_url: 'https://github.com/mboudour' 
+   twitter_url: 'https://twitter.com/mosabou'
+   scholar_url: 'https://scholar.google.com/citations?user=IWN2LiYAAAAJ&hl=en'
+   linked_in_url: 'https://www.linkedin.com/in/moses-boudourides-24aba121/'
    office_hours_time: By appointment (see appointment app)
-   office_hours_location:  'https://asu.zoom.us/meeting/557182841'
+   office_hours_location:  'https://asu.zoom.us/j/4747048556'
    office_hours_app_url: 'https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhwWDQ3dVdHQmp1fGRlZmF1bHR8OGM4MmYwNzBmMmMwYTRmY2UyODI2MzliNGNiNzFkODg'
    
 
