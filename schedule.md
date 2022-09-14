@@ -3,27 +3,27 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/82561/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/134477/assignments'
   
-yellowdig_url: 'https://canvas.asu.edu/courses/82561/assignments/2072813'
+yellowdig_url: 'https://canvas.asu.edu/courses/134477/assignments/3584008'
 
 yellowdig: 
-  post-01: 'Friday, March 12'
-  post-02: 'Friday, March 19'
-  post-03: 'Friday, March 26'
-  post-04: 'Friday, April 2' 
-  post-05: 'Friday, April 9' 
-  post-06: 'Friday, April 16' 
-  post-07: 'Friday, April 23' 
+  post-01: 'Friday, October 14'
+  post-02: 'Friday, October 21'
+  post-03: 'Friday, October 28'
+  post-04: 'Friday, November 4' 
+  post-05: 'Friday, November 11' 
+  post-06: 'Friday, November 18' 
+  post-07: 'Friday, November 25' 
   
 
 labs:
-  lab-01:  'Tuesday, March 16'
-  lab-02:  'Tuesday, March 23'
-  lab-03:  'Friday, March 30'
-  lab-04:  'Tuesday, April 6'
-  lab-05:  'Tuesday, April 13'
-  lab-06:  'Tuesday, April 20'
+  lab-01:  'Tuesday, October 18'
+  lab-02:  'Tuesday, October 25'
+  lab-03:  'Friday, November 1'
+  lab-04:  'Tuesday, November 8'
+  lab-05:  'Tuesday, November 15'
+  lab-06:  'Tuesday, Novermber 22'
   
 videos: 
   vid-01: 'https://www.youtube.com/embed/uQxRUoqnRtc'
@@ -35,7 +35,7 @@ videos:
 
 
 projects: 
-  website: 'Friday, April 23'
+  website: 'Friday, December 2'
   
   
 ---
