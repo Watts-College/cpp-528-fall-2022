@@ -23,7 +23,7 @@ info:
  discussion_board_url: 'https://watts-college.github.io/cpp-528-fall-2022/help/'
 
 instructor:
--  name: Cristian E. Nuno
+-  name: Moses Boudourides
    title: Professor of Practice
    email: mboudour@asu.edu   
    office_location: UCENT 444 and virtual
