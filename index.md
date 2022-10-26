@@ -35,6 +35,18 @@ instructor:
    office_hours_time: By appointment (see appointment app)
    office_hours_location:  'https://asu.zoom.us/j/4747048556'
    office_hours_app_url: 'https://calendly.com/moses-boudourides'
+-  name: Courtney Stowers
+   title: Data Analyst/Academic Associate
+   email: Courtney.Stowers@asu.edu   
+   office_location: Virtual
+   website_url: 
+   github_url: 'https://github.com/castower' 
+   twitter_url: 'https://twitter.com/mosabou'
+   scholar_url: 'https://scholar.google.com/citations?user=IWN2LiYAAAAJ&hl=en'
+   linked_in_url: 'https://www.linkedin.com/in/courtney-stowers'
+   office_hours_time: By appointment (see appointment app)
+   office_hours_location:  Zoom
+   office_hours_app_url: 'https://calendly.com/courtney-stowers/'
    
 
 textbooks:
