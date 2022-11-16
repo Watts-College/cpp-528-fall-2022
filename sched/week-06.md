@@ -43,6 +43,9 @@ image-width: 150px
 
   <h2> Resources: </h2>
   
+  **Note:** Due to changes in the Github Pages workflow that have been implemented since this video was recorded, it appears that it is no longer an option to automatically assign a theme and generate a *_config.yml* file for your website. Therefore, an example file has been linked below. You can download this file and then use the instructions in the Github Pages Themes Repositories linked below to edit it and update your theme.
+  
+  - [Example _config.yml file](https://drive.google.com/file/d/1e-qw_ScwIAM06xH9EkpaXBHCS6WKpp0F/view?usp=sharing)
   - [Github Pages Themes Repositories](https://github.com/pages-themes)
   - [Alternate Index.md file](https://drive.google.com/file/d/13lhEwoB9X_Sx3LLRjETHlz_p24s5j9Py/view?usp=sharing)
   - [Github Pages Quick Start](https://docs.github.com/en/pages/quickstart)
